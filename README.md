@@ -1,2 +1,2 @@
 # Daily_CS
-매일매일 개발 지식 한입! 💻🥄
+- [RDBMS와 Nosql의 차이점을 설명해주세요.](https://github.com/jeonghoHub/Daily_CS/issues/1)
