@@ -1,4 +1,5 @@
 # Daily_CS
+- [페이징과 세그멘테이션을 사용하는 이유와 차이점에 대해 알려주세요](https://github.com/jeonghoHub/Daily_CS/issues/10)
 - [프록시에 대해 설명해주세요](https://github.com/jeonghoHub/Daily_CS/issues/9)
 - [HashMap과 HashTable의 차이점에 대해 설명해주세요](https://github.com/jeonghoHub/Daily_CS/issues/8)
 - [CISC와 RISC의 차이에 대해 설명해주세요](https://github.com/jeonghoHub/Daily_CS/issues/7)
